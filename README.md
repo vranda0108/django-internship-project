@@ -1,4 +1,4 @@
-# Django Internship Project - Backend System with REST API, Celery, and Telegram Bot
+# Django Project - Backend System with REST API, Celery, and Telegram Bot
 
 ## 🔍 Project Overview
 
