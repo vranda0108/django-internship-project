@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# SQLite DB
+db.sqlite3
+
+# Environment
+.env
+env/
+venv/
+
+# Django static/media
+/static/
+media/
+
+# VSCode, PyCharm, OS-specific
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
